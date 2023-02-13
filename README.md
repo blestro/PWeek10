@@ -1,3 +1,2 @@
 # SQL/JAVA Project
-This includes Week 7 and 8 of the project code
-"# PWeek10" 
+This includes Week 10 of the project code
